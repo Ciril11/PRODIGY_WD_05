@@ -39,9 +39,11 @@ This is a simple and responsive **Weather App** built using **HTML**, **CSS**, a
 
 ---
 
-##🌐 Access the Project  
-Click here to view my project
-GitHub Repository: https://github.com/Ciril11/PRODIGY_WD_05
+## 🌐 Access the Project
+
+Github repository: https://github.com/Ciril11/PRODIGY_WD_02
+
+
 
 ---
 
