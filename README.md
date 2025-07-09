@@ -39,6 +39,12 @@ This is a simple and responsive **Weather App** built using **HTML**, **CSS**, a
 
 ---
 
+##🌐 Access the Project  
+Click here to view my project
+GitHub Repository: https://github.com/Ciril11/PRODIGY_WD_05
+
+---
+
 ## 🔑 Requirements
 
 - A valid [OpenWeatherMap API Key](https://openweathermap.org/api)
@@ -62,6 +68,4 @@ Feel free to enhance it by adding:
 ---
 
 
-###🌐 Access the Project  
-Click here to view my project
-GitHub Repository: https://github.com/Ciril11/PRODIGY_WD_05
+
